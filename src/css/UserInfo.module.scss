@@ -1,0 +1,21 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
+
+.body {
+    // margin: 0 auto;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.label, .input {
+    margin: 10px;
+}
+
+.submitDiv {
+    text-align:center;
+}
